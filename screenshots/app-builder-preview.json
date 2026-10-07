@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Линия Фронта",
+      "hasCanvas": false,
+      "bodyTextLen": 645,
+      "bodyTextHash": "fb8d616b943b5dcd76da3d53495a5b1df765e1d33a34284b2c5510e53a3adbe4",
+      "bodyTextPrefix": "ОПЕРАТИВНАЯ КАРТА Линия Фронта Реал-тайм стратегия. Плавная лини",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Линия Фронта",
+      "hasCanvas": false,
+      "bodyTextLen": 645,
+      "bodyTextHash": "fb8d616b943b5dcd76da3d53495a5b1df765e1d33a34284b2c5510e53a3adbe4",
+      "bodyTextPrefix": "ОПЕРАТИВНАЯ КАРТА Линия Фронта Реал-тайм стратегия. Плавная лини",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
